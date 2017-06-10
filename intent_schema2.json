@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "VolcanoesList"
+    },
+    {
+      "intent": "VolcanoesDescription",
+      "slots" : [
+        {
+          "name": "Volcanoe",
+          "type": "VOLCANOES"
+        }
+      ]
+    },
+     {
+      "intent": "VolcanoesHeight",
+      "slots" : [
+        {
+          "name": "Volcanoe",
+          "type": "VOLCANOES"
+        }
+      ]
+    },{
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
