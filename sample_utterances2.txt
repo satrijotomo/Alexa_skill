@@ -1,0 +1,3 @@
+VolcanoesList what are the volcanoes in indonesia
+VolcanoesDescription tell me about mount {Volcanoe}
+VolcanoesHeight how tall is mount {Volcanoe}
